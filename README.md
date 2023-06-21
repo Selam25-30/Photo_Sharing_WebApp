@@ -2,10 +2,10 @@
 
   <img src="https://github.com/Endale24/Photo_Sharing_WebApp/blob/master/photoG/weshare.jpg" alt="logo" width="200" height="auto" />
   
-# Photo Sharing Application with REACT.JS!
+# Photo Sharing WebApp using React and Node.js 
   
   <p>
-Full Stack Photo Sharing Application with React Js (like as pinterest) (Google Authentication, create, edit, delete and save posts and comment on other people's posts, search and filter images)
+Full Stack Photo Sharing webapp with React Js (like as pinterest) (Google Authentication, create, edit, delete and save posts and comment on other people's posts, search and filter images)
   </p>
   
   

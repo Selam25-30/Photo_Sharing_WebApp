@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://photos.google.com/photo/AF1QipM6NkYkqA8pVhn5SBcHxC3KX_YnMYBySdpXVtl2](https://github.com/Endale24/Photo_Sharing_WebApp/blob/master/photoG/weshare.jpg)" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/Endale24/Photo_Sharing_WebApp/blob/master/photoG/weshare.jpg" alt="logo" width="200" height="auto" />
   
 # Photo Sharing Application with REACT.JS!
   

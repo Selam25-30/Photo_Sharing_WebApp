@@ -13,19 +13,19 @@ Full Stack Photo Sharing webapp with React Js (like as pinterest) (Google Authen
 
 <a href="https://photo-sharingo.netlify.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/Photo-Sharing-Application.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/Photo-Sharing-Application.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/Photo-Sharing-Application)
-![](https://img.shields.io/github/last-commit/SashenJayathilaka/Photo-Sharing-Application)
+![](https://img.shields.io/github/forks/Endale24/Photo_Sharing_WebApp.svg)
+![](https://img.shields.io/github/stars/Endale24/Photo_Sharing_WebApp.svg)
+![](https://img.shields.io/github/issues/Endale24/Photo_Sharing_WebApp)
+![](https://img.shields.io/github/last-commit/Endale24/Photo_Sharing_WebApp)
 
 <h4>
     <a href="https://photo-sharingo.netlify.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Photo-Sharing-Application/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/Endale24/Photo_Sharing_WebApp/blob/master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Photo-Sharing-Application/issues">Report Bug</a>
+    <a href="https://github.com/Endale24/Photo_Sharing_WebApp/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Photo-Sharing-Application/issues">Request Feature</a>
+    <a href="https://github.com/Endale24/Photo_Sharing_WebApp/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -201,7 +201,7 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./src/in
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/Photo-Sharing-Application/network/dependencies" target="_blank">🔶 Dependency Info</a>
+<a href="https://github.com/Endale24/Photo_Sharing_WebApp/network/dependencies" target="_blank">🔶 Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -212,7 +212,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git https://github.com/SashenJayathilaka/Photo-Sharing-Application.git
+  git https://github.com/Endale24/Photo_Sharing_WebApp.git
 ```
 
 change directory
@@ -272,34 +272,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-#### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-#### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-#### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-#### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-#### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-#### `npm run build` fails to minify
-
-## :handshake: Contact
-
-Sashen - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
-
-Project Link: [https://github.com/SashenJayathilaka/Photo-Sharing-Application.git](https://github.com/SashenJayathilaka/Photo-Sharing-Application.git)
-
-<div align="center">
-<a href="https://photo-sharingo.netlify.app"><img src='https://user-images.githubusercontent.com/99184393/202158184-b4145ff9-e920-4dee-bbd0-2dd82e0b474b.png' alt='image'/></a>
-</div>

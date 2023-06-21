@@ -1,6 +1,6 @@
 
 {
-  "homepage": "homepage": "http://Endale24.github.io/Photo_Sharing_WebApp",
+"homepage": "http://Endale24.github.io/Photo_Sharing_WebApp",
   "name": "Photo_Sharing_WebApp",
   "version": "0.1.0",
   "private": true,
@@ -25,7 +25,7 @@
   },
   "eslintConfig": {
     "extends" [
-      "react-app",
+      "react-app"
       "react-app/jest"
     ]
   },
